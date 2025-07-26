@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-High School Student
+High School Student in UK
 
 Member of [Hack Club](https://hackclub.com/)
 
@@ -12,9 +12,9 @@ Interested in games, web stuff, and anything creative with code
 
 # 🧠 __Currently working on__
 
-- [HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) [CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) Building a personal website
-- Building my knowlage of ethical hacking
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Using HTML & CSS to make my onw portfolio website
+- Expanding my knowlage of ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) for multiple projects
+- Learning about creating mod for minecraft Bedrock
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hippogriff101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
