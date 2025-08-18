@@ -15,7 +15,7 @@ Interested in games, web stuff, and anything creative with code
 - Using HTML & CSS to make my onw portfolio website
 - Expanding my knowlage of ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) for multiple projects
 - Learning about creating mod for minecraft Bedrock
-
+- Discord Bots now I guess
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hippogriff101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
