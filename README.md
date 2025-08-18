@@ -10,6 +10,9 @@ I love experimenting with code and building things just for fun
 
 Interested in games, web stuff, and anything creative with code
 
+---
+
+
 # 🧠 __Currently working on__
 
 - Using HTML & CSS to make my onw portfolio website
@@ -17,6 +20,13 @@ Interested in games, web stuff, and anything creative with code
 - Learning about creating mod for minecraft Bedrock
 - Discord Bots now I guess
 
+---
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hippogriff101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 
+# 🚢 __Shipped Projects__
+
+- [Custom Album](https://github.com/hippogriff101/Custom-Album-Minecraft-/releases/tag/v1.0.0)
+- 
