@@ -24,9 +24,11 @@ Interested in games, web stuff, and anything creative with code
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hippogriff101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=669&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+
 ---
 
 # 🚢 __Shipped Projects__
 
 - [Custom Album](https://github.com/hippogriff101/Custom-Album-Minecraft-/releases/tag/v1.0.0)
-- 
