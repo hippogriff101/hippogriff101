@@ -32,3 +32,4 @@ Interested in games, web stuff, and anything creative with code
 # 🚢 __Shipped Projects__
 
 - [Custom Album](https://github.com/hippogriff101/Custom-Album-Minecraft-/releases/tag/v1.0.0)
+- [Jokes (Discord}](https://github.com/hippogriff101/Jokes/releases/tag/v1)
