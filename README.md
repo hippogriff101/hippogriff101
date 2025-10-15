@@ -1,24 +1,36 @@
 # 💫 About Me:
 
-High School Student in UK
+High School Student and tech enthusist in UK
 
 Member of [Hack Club](https://hackclub.com/)
 
-Currently exploring Python, HTML/CSS, and making small projects
+Currently exploring Python, HTML/CSS, and making fun projects
 
-I love experimenting with code and building things just for fun
+---
 
-Interested in games, web stuff, and anything creative with code
+# 📱 Contact Me
 
+- [Email](mailto:hippogriff@hackclub.app) (_this is not my main email and is not checked as regually, would reccomend other contact methods_)
+- Signal - hippogriff.01
+- Discord - hippogriff101
+- [Youtube](https://www.youtube.com/@Hippogriff1)
+- [Discord Community Server](https://discord.gg/dJcnYV2eDd)
 ---
 
 
 # 🧠 __Currently working on__
 
-- Using HTML & CSS to make my onw portfolio website
-- Expanding my knowlage of ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) for multiple projects
-- Learning about creating mod for minecraft Bedrock
-- Discord Bots now I guess
+- Portfolio Site (HTML & CSS) - [Repo - The-Freddie-Site](https://github.com/hippogriff101/The-Freddie-Site)
+- Python (external libarys and GCSE computer science)
+- Foot Pedal DJ (First Hardware Project) - [Repo - FootPedalDJ](https://github.com/hippogriff101/FootPedalDJ)
+- Discord Bots (not working on right now) - [Repo - TubeCord](https://github.com/hippogriff101/TubeCord)
+
+---
+
+# 🏠 __Events__
+
+- Daydream London
+- EuroHacks (online)
 
 ---
 
@@ -31,5 +43,9 @@ Interested in games, web stuff, and anything creative with code
 
 # 🚢 __Shipped Projects__
 
-- [Custom Album](https://github.com/hippogriff101/Custom-Album-Minecraft-/releases/tag/v1.0.0)
-- [Jokes (Discord}](https://github.com/hippogriff101/Jokes/releases/tag/v1)
+- [Custom Album (Minecrfat Bedrock Mod)](https://github.com/hippogriff101/Custom-Album-Minecraft-/releases/tag/v1.0.0)
+- [Jokes (Discord)](https://github.com/hippogriff101/Jokes/releases/tag/v1)
+- [Tambarine AI](https://github.com/hippogriff101/Tambarine-AI/releases/tag/v2.0.1)
+- [Drop the Baby](https://hippogriff101.itch.io/bye)  _next update in dev_
+- [B.L.O.R.T - Hack Club's Summer of Making Expo](https://island.hackclub.com/scenes/71)
+- [At the Moment](https://hippogriff101.github.io/At-the-Moment/)  _A social media consept for EuroHacks online hackathon_
