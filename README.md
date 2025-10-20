@@ -6,6 +6,8 @@ Member of [Hack Club](https://hackclub.com/)
 
 Currently exploring Python, HTML/CSS, and making fun projects
 
+Look at [my website - freddieyershon.co.uk](freddieyershon.co.uk)
+
 ---
 
 # 📱 Contact Me
