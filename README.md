@@ -26,6 +26,7 @@ Look at [my website - freddieyershon.co.uk](freddieyershon.co.uk)
 - Python (external libarys and GCSE computer science)
 - Foot Pedal DJ (First Hardware Project) - [Repo - FootPedalDJ](https://github.com/hippogriff101/FootPedalDJ)
 - Discord Bots (not working on right now) - [Repo - TubeCord](https://github.com/hippogriff101/TubeCord)
+- Musicals : A site for [Hack Clubs Fanpage](https://fanpage.hackclub.com/) - [Repo - Musicals](https://github.com/hippogriff101/Musicals)
 
 ---
 
