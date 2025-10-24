@@ -26,7 +26,7 @@ Look at [my website - freddieyershon.co.uk](freddieyershon.co.uk)
 - Python (external libarys and GCSE computer science)
 - Foot Pedal DJ (First Hardware Project) - [Repo - FootPedalDJ](https://github.com/hippogriff101/FootPedalDJ)
 - Discord Bots (not working on right now) - [Repo - TubeCord](https://github.com/hippogriff101/TubeCord)
-- Musicals : A site for [Hack Clubs Fanpage](https://fanpage.hackclub.com/) - [Repo - Musicals](https://github.com/hippogriff101/Musicals)
+- [Pico Ducky Project](https://picoducky.hackclub.com/) - A YSWS by Hack Club
 
 ---
 
@@ -49,6 +49,7 @@ Look at [my website - freddieyershon.co.uk](freddieyershon.co.uk)
 - [Custom Album (Minecrfat Bedrock Mod)](https://github.com/hippogriff101/Custom-Album-Minecraft-/releases/tag/v1.0.0)
 - [Jokes (Discord)](https://github.com/hippogriff101/Jokes/releases/tag/v1)
 - [Tambarine AI](https://github.com/hippogriff101/Tambarine-AI/releases/tag/v2.0.1)
-- [Drop the Baby](https://hippogriff101.itch.io/bye)  _next update in dev_
+- [Drop the Baby](https://hippogriff101.itch.io/bye)  _not very good 😢_
 - [B.L.O.R.T - Hack Club's Summer of Making Expo](https://island.hackclub.com/scenes/71)
 - [At the Moment](https://hippogriff101.github.io/At-the-Moment/)  _A social media consept for EuroHacks online hackathon_
+- [Musicals](https://hippogriff101.github.io/Musicals/) _A site for [Hack Clubs Fanpage](https://fanpage.hackclub.com/)_
