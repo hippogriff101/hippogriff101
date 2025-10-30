@@ -17,6 +17,7 @@ Look at [my website - freddieyershon.co.uk](freddieyershon.co.uk)
 - Discord - hippogriff101
 - [Youtube](https://www.youtube.com/@Hippogriff1)
 - [Discord Community Server](https://discord.gg/dJcnYV2eDd)
+- [Hack Club Slack - @Freddie](https://hackclub.slack.com/team/U078VN0UU2K)
 ---
 
 
