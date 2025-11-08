@@ -21,13 +21,17 @@ Look at [my website - freddieyershon.co.uk](freddieyershon.co.uk)
 ---
 
 
-# 🧠 __Currently working on__
+# 🧠 __Currently working on__ 
+### (_order of importance_)
 
-- Portfolio Site (HTML & CSS) - [Repo - The-Freddie-Site](https://github.com/hippogriff101/The-Freddie-Site)
-- Python (external libarys and GCSE computer science)
-- Foot Pedal DJ (First Hardware Project) - [Repo - FootPedalDJ](https://github.com/hippogriff101/FootPedalDJ)
-- Discord Bots (not working on right now) - [Repo - TubeCord](https://github.com/hippogriff101/TubeCord)
+- Assisting organisation of Hack Club's [_Camp_](camp.hackclub.com)!
 - [Pico Ducky Project](https://picoducky.hackclub.com/) - A YSWS by Hack Club
+- Portfolio Site (HTML & CSS) - [Repo - The-Freddie-Site](https://github.com/hippogriff101/The-Freddie-Site)
+- Foot Pedal DJ (First Hardware Project) - [Repo - FootPedalDJ](https://github.com/hippogriff101/FootPedalDJ)
+- Python (external libarys and GCSE computer science)
+- Discord Bots (not working on right now) - [Repo - TubeCord](https://github.com/hippogriff101/TubeCord)
+  
+
 
 ---
 
