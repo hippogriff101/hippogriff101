@@ -24,7 +24,7 @@ Look at [my website - freddieyershon.co.uk](freddieyershon.co.uk)
 # 🧠 __Currently working on__ 
 ### (_order of importance_)
 
-- Assisting organisation of Hack Club's [_Camp_](camp.hackclub.com)!
+- Assisting organisation of Hack Club's [_Camp_](https://camp.hackclub.com)!
 - [Pico Ducky Project](https://picoducky.hackclub.com/) - A YSWS by Hack Club
 - Portfolio Site (HTML & CSS) - [Repo - The-Freddie-Site](https://github.com/hippogriff101/The-Freddie-Site)
 - Foot Pedal DJ (First Hardware Project) - [Repo - FootPedalDJ](https://github.com/hippogriff101/FootPedalDJ)
