@@ -1,18 +1,20 @@
 # 💫 About Me:
 
-High School Student and tech enthusist in UK
+High School Student and tech enthusist from England.
 
-Member of [Hack Club](https://hackclub.com/)
+Member of [Hack Club](https://hackclub.com/)!
 
-Currently exploring Python, HTML/CSS, and making fun projects
+Currently exploring Python, HTML/CSS and more side projects or YSWS's.
 
-Look at [my website - freddieyershon.co.uk](freddieyershon.co.uk)
+Leading a official [Hack _Club_](https://hackclub.com/clubs/) at my school!!
+
+Look at [my website - freddieyershon.co.uk](freddieyershon.co.uk)? (_in development_)
 
 ---
 
 # 📱 Contact Me
 
-- [Email](mailto:hippogriff@hackclub.app) (_this is not my main email and is not checked as regually, would reccomend other contact methods_)
+- [Email](mailto:hello@freddieyershon.co.uk) (_i got domain email!!!_)
 - Signal - hippogriff.01
 - Discord - hippogriff101
 - [Youtube](https://www.youtube.com/@Hippogriff1)
@@ -24,9 +26,10 @@ Look at [my website - freddieyershon.co.uk](freddieyershon.co.uk)
 # 🧠 __Currently working on__ 
 ### (_order of importance_)
 
-- Assisting organisation of Hack Club's [_Camp_](https://camp.hackclub.com)!
-- [Pico Ducky Project](https://picoducky.hackclub.com/) - A YSWS by Hack Club
+- Assisting organisation of Hack Club's [Rooted](https://rooted.hackclub.com)!
+- Blueprint Project [HackerPad](blueprint.hackclub.com)
 - Portfolio Site (HTML & CSS) - [Repo - The-Freddie-Site](https://github.com/hippogriff101/The-Freddie-Site)
+- [Pico Ducky Project](https://picoducky.hackclub.com/) - A YSWS by Hack Club
 - Foot Pedal DJ (First Hardware Project) - [Repo - FootPedalDJ](https://github.com/hippogriff101/FootPedalDJ)
 - Python (external libarys and GCSE computer science)
 - Discord Bots (not working on right now) - [Repo - TubeCord](https://github.com/hippogriff101/TubeCord)
