@@ -8,7 +8,7 @@ Currently exploring Python, HTML/CSS and more side projects or YSWS's.
 
 Leading a official [Hack _Club_](https://hackclub.com/clubs/) at my school!!
 
-Look at [my website - freddieyershon.co.uk](freddieyershon.co.uk)? (_in development_)
+Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 
 ---
 
