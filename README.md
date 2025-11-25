@@ -27,13 +27,10 @@ Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 ### (_order of importance_)
 
 - Assisting organisation of Hack Club's [Rooted](https://rooted.hackclub.com)!
-- Blueprint Project [HackerPad](blueprint.hackclub.com)
+- Blueprint Project [HackerPad](https://blueprint.hackclub.com)
 - Portfolio Site (HTML & CSS) - [Repo - The-Freddie-Site](https://github.com/hippogriff101/The-Freddie-Site)
-- [Pico Ducky Project](https://picoducky.hackclub.com/) - A YSWS by Hack Club
 - Foot Pedal DJ (First Hardware Project) - [Repo - FootPedalDJ](https://github.com/hippogriff101/FootPedalDJ)
 - Python (external libarys and GCSE computer science)
-- Discord Bots (not working on right now) - [Repo - TubeCord](https://github.com/hippogriff101/TubeCord)
-  
 
 
 ---
