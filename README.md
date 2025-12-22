@@ -4,9 +4,9 @@ High School Student and tech enthusist from England.
 
 Member of [Hack Club](https://hackclub.com/)!
 
-Currently exploring Python, HTML/CSS and more side projects or YSWS's.
+More of a web dev as of reacently but still love python
 
-Leading a official [Hack _Club_](https://hackclub.com/clubs/) at my school!!
+Leading a official [Hack _Club_](https://hackclub.com/clubs/) at my school! Have a look at our club website [here](https://eehshack.club/)!
 
 Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 
@@ -17,8 +17,6 @@ Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 - [Email](mailto:hello@freddieyershon.co.uk) (_i got domain email!!!_)
 - Signal - hippogriff.01
 - Discord - hippogriff101
-- [Youtube](https://www.youtube.com/@Hippogriff1)
-- [Discord Community Server](https://discord.gg/dJcnYV2eDd)
 - [Hack Club Slack - @Freddie](https://hackclub.slack.com/team/U078VN0UU2K)
 ---
 
@@ -26,19 +24,18 @@ Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 # 🧠 __Currently working on__ 
 ### (_order of importance_)
 
+- Woof, a YSWS Draft for Hack Club
 - Assisting organisation of Hack Club's [Rooted](https://rooted.hackclub.com)!
-- Blueprint Project [HackerPad](https://blueprint.hackclub.com)
 - Portfolio Site (HTML & CSS) - [Repo - The-Freddie-Site](https://github.com/hippogriff101/The-Freddie-Site)
-- Foot Pedal DJ (First Hardware Project) - [Repo - FootPedalDJ](https://github.com/hippogriff101/FootPedalDJ)
-- Python (external libarys and GCSE computer science)
-
 
 ---
 
 # 🏠 __Events__
 
-- Daydream London
+- [Daydream London]
 - EuroHacks (online)
+
+- Campfire 2026 (RSVP'ed)
 
 ---
 
