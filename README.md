@@ -24,7 +24,7 @@ Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 # 🧠 __Currently working on__ 
 ### (_order of importance_)
 
-- Woof, a YSWS Draft for Hack Club
+- [Woof](https://woof.hackclub.com), a YSWS Draft for Hack Club
 - Assisting organisation of Hack Club's [Rooted](https://rooted.hackclub.com)!
 - Portfolio Site (HTML & CSS) - [Repo - The-Freddie-Site](https://github.com/hippogriff101/The-Freddie-Site)
 
