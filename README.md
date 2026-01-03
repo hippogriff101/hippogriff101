@@ -15,8 +15,6 @@ Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 # 📱 Contact Me
 
 - [Email](mailto:hello@freddieyershon.co.uk) (_i got domain email!!!_)
-- Signal - hippogriff.01
-- Discord - hippogriff101
 - [Hack Club Slack - @Freddie](https://hackclub.slack.com/team/U078VN0UU2K)
 ---
 
