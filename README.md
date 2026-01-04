@@ -4,8 +4,6 @@ High School Student and tech enthusist from England.
 
 Member of [Hack Club](https://hackclub.com/)!
 
-More of a web dev as of reacently but still love python
-
 Leading a official [Hack _Club_](https://hackclub.com/clubs/) at my school! Have a look at our club website [here](https://eehshack.club/)!
 
 Look at [my website](https://freddieyershon.co.uk/) (_in development_)
