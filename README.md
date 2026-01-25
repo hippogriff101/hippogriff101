@@ -34,8 +34,14 @@ Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 - Campfire 2026 (RSVP'ed)
 
 ---
+## [Hackatime](hackatime.hackclub.com) Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hippogriff101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://heatmap.shymike.dev?id=669&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=669&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=669&theme=light">
+    </picture>
+</a>
 
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=669&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
