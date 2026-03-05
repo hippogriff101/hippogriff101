@@ -25,15 +25,6 @@ Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 - Portfolio Site (HTML & CSS) - [Repo - The-Freddie-Site](https://github.com/hippogriff101/The-Freddie-Site)
 
 ---
-
-# 🏠 __Events__
-
-- [Daydream London]
-- EuroHacks (online)
-
-- Campfire 2026 (RSVP'ed)
-
----
 ## [Hackatime](hackatime.hackclub.com) Stats
 
 <a href="https://heatmap.shymike.dev?id=669&standalone=true" title="Click to view detailed data for each day!">
@@ -44,16 +35,3 @@ Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 </a>
 
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=669&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-
-
----
-
-# 🚢 __Shipped Projects__
-
-- [Custom Album (Minecrfat Bedrock Mod)](https://github.com/hippogriff101/Custom-Album-Minecraft-/releases/tag/v1.0.0)
-- [Jokes (Discord)](https://github.com/hippogriff101/Jokes/releases/tag/v1)
-- [Tambarine AI](https://github.com/hippogriff101/Tambarine-AI/releases/tag/v2.0.1)
-- [Drop the Baby](https://hippogriff101.itch.io/bye)  _not very good 😢_
-- [B.L.O.R.T - Hack Club's Summer of Making Expo](https://island.hackclub.com/scenes/71)
-- [At the Moment](https://hippogriff101.github.io/At-the-Moment/)  _A social media consept for EuroHacks online hackathon_
-- [Musicals](https://hippogriff101.github.io/Musicals/) _A site for [Hack Clubs Fanpage](https://fanpage.hackclub.com/)_
