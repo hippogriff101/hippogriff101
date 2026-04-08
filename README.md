@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+I'm+Freddie...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+I'm+Freddie!)](https://git.io/typing-svg)
 
 I'm a High School Student and tech enthusist from England.
 
@@ -14,6 +14,7 @@ Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 
 - [Email](mailto:hello@freddieyershon.co.uk) (_i got domain email!!!_)
 - [Hack Club Slack - @Freddie](https://hackclub.slack.com/team/U078VN0UU2K)
+- [Linkedin](https://www.linkedin.com/in/freddie-yershon-8973193b5)
 ---
 
 
