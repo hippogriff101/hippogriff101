@@ -21,8 +21,8 @@ Look at [my website](https://freddieyershon.co.uk/) (_in development_)
 # __Currently working on__ 
 
 - [Vibes](https://vibes.hackclub.com), a Club YSWS for Hack Club
-- Assisting organisation of Hack Club's [Rooted](https://rooted.hackclub.com)!
 - Portfolio Site (HTML & CSS) - [Repo - The-Freddie-Site](https://github.com/hippogriff101/The-Freddie-Site)
+- Other Projets w/ Hack Club
 
 ---
 ## [Hackatime](hackatime.hackclub.com) Stats
