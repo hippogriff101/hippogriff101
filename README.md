@@ -2,8 +2,8 @@
 
 I'm a High School Student and tech enthusist from England.
 
-Clubs Team @ [Hack Club](https://hackclub.com/)!
+I work for [Hack Club](https://hackclub.com/) in the Clubs Team!
 
-Leading a official [Hack _Club_](https://hackclub.com/clubs/) at my school!
+I lead a [Hack _Club_](https://hackclub.com/clubs/) at my school!
 
-Look at [my website](https://freddieyershon.co.uk/) (_in development_)
+Have a lovely day! :>
